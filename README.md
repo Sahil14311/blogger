@@ -1,0 +1,2 @@
+# blogger
+for Blogspot uses.
